@@ -1,4 +1,4 @@
-gitProvider: maven-local-test
+gitProvider: maven
 artifactory: demoArt
 repoPath: elinaf/jfrog-pipelines-maven-sample
 deployerRepo: maven-test-local
