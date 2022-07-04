@@ -1,4 +1,4 @@
 gitProvider: Github
 artifactory: Arti
-repoPath: elinaf/jfrog-pipelines-maven-sample
+repoPath: jfrog-pipelines-maven-sample
 deployerRepo: maven-test-local
